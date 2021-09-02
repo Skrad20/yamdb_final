@@ -2,6 +2,8 @@
 
 __*yamdb_final*__
 
+![example workflow](https://github.com/Skrad20/yamdb_final/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 # 2. Краткое описание
 
 Проект для собра и хранения отзывов пользователей на произведения различных категорий, таких как *Книги, Фильмы, Музыка*.
