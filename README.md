@@ -2,7 +2,7 @@
 
 __*yamdb_final*__
 
-![example workflow](https://github.com/Skrad20/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![example workflow](https://github.com/Skrad20/yamdb_final/.github/workflows/badge.svg)
 
 # 2. Краткое описание
 
