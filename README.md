@@ -15,6 +15,7 @@ __*yamdb_final*__
 * Gunicorn 20.1.0
 * PostgreSQL
 * Docker
+* Docker-compose
 * NGINX
 
 # 4. Инструкции по запуску
