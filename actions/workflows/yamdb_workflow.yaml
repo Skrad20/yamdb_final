@@ -69,6 +69,7 @@ jobs:
             passphrase: ${{ secrets.PASSPHRASE }}
             stack_file_name: docker-compose.yaml
             script: |
+              sudo docker-compose down
               sudo systemctl start docker
               sudo docker pull ${{ secrets.DOCKER_USERNAME }}/yamdb_final
               sudo docker-compose stop
