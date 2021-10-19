@@ -81,7 +81,6 @@ class RoleReviewOrComment(permissions.BasePermission):
             return True
         return None
 
-
     def has_permission(self, request, view):
         if request.user.is_anonymous:
             if request.method in permissions.SAFE_METHODS:
