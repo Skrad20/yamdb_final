@@ -107,3 +107,7 @@ docker system prune
 
 # 6. Автор
 Yandex.Practicum, Евдокимов Е.Г.
+
+# 7. Посмотреть проект
+
+[Можно тут](http://130.193.54.156/admin/login/?next=/admin/)
